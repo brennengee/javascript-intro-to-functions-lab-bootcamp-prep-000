@@ -20,6 +20,8 @@ function sayHiToGrandma(string) {
   return "YES INDEED!"
   } else if (casecase === "I love you, Grandma.") {
     return "I love you, too."
-  } else 
+  } else {
+    return "I can't hear you!"
+  }
 }
 
